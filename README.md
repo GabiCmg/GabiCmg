@@ -1,4 +1,8 @@
 ### Oiii, eu sou a Gabriela Camargo, estudante de programação! 👋
+
+- 🌱 18y
+- 🤔 She/Her
+
 <!--
 **GabiCmg/GabiCmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
