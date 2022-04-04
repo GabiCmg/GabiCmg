@@ -1,4 +1,4 @@
-### Oiii eu sou a Gabriela Camargo, estudante de programação e tecnologia! 👋
+### Oiii, eu sou a Gabriela Camargo, estudante de programação! 👋
 <!--
 **GabiCmg/GabiCmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!-- Mudar Nick: GabiCmg - Mudar tema (theme): Dracula/Dark/etc -->
 <div align="center">
   <a href="https://github.com/GabiCmg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabiCmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiCmg&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=GabiCmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiCmg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <!-- Linguagens que conheço -->
@@ -34,16 +35,16 @@ Here are some ideas to get you started:
 </div>
  
 <!-- Linha -->
+  
   ##
- 
+  
 <!-- Redes -->
+  
 <div> 
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <!-- https://shields.io/ -->
   <a href="https://www.instagram.com/gabicamaroli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriela.camaroli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriela-c-oliveira-4b7078232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
