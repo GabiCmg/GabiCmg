@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Símbolo Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Símbolo Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <!-- Mais Icons: https://devicon.dev/ -->
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/154236905_2340113066133666_8764799021239240621_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=4CgT_-LStDgAX91vaDt&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-hveKo_Mc__l7k32LULpgP8NSxO547l7lUD-6ywgmU9g&oe=625080F3&_nc_sid=7bff83">
+  <img align="right" alt="GabCmg-Pic" height="150" style="border-radius:50px;" src="https://scontent-gru2-2.cdninstagram.com/v/t51.2885-19/154236905_2340113066133666_8764799021239240621_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-gru2-2.cdninstagram.com&_nc_cat=106&_nc_ohc=4CgT_-LStDgAX91vaDt&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT-hveKo_Mc__l7k32LULpgP8NSxO547l7lUD-6ywgmU9g&oe=625080F3&_nc_sid=7bff83">
 </div>
  
 <!-- Linha -->
