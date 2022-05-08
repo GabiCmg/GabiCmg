@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
+<hr>
+
 <!--APRESENTAÇÃO-->
 
 <div align=center>
@@ -27,14 +30,8 @@ Here are some ideas to get you started:
             
 </div>
 
-<!-- INFORMAÇÕES GITHUB -->
-
-<!-- Mudar Nick: GabiCmg - Mudar tema (theme): Dracula/Dark/etc -->
-<div align="center">
-  <a href="https://github.com/GabiCmg">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabiCmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiCmg&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<hr>
+<hr>
 
 <!--SOBRE MIM-->
 
@@ -58,11 +55,23 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+<br>
 
+<!-- INFORMAÇÕES GITHUB -->
 
+<!-- Mudar Nick: GabiCmg - Mudar tema (theme): Dracula/Dark/etc -->
+<div align="center">
+  <a href="https://github.com/GabiCmg">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabiCmg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiCmg&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+ <br> 
+  
 <!-- LINGUAGENS QUE CONHEÇO -->
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <h3>LINGUAGENS:</h3>
   <img align="center" alt="Símbolo JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Símbolo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Símbolo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
