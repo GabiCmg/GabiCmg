@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   
 <!-- LINGUAGENS QUE CONHEÇO -->
   
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
   <h3>LINGUAGENS:</h3>
   <img align="center" alt="Símbolo JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Símbolo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   
 <!-- CONTATOS -->
   
-<div align="center"> 
+<div> 
   <h3>CONTATOS:</h3>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <!-- https://shields.io/ -->
