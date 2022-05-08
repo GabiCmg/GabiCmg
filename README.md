@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <h3>SOBRE MIM</h3>
   <p> 🌱 Sou técnica de Informática, formada na ETEC de Taboão da Serra.</p>
   <p> 💻 Aluna do Instituto PROA, Cursando desenvolvimento Web Java. </p>
-  <p> ✏️ Metas: Aprimorar meus meus conhecimentos na área de Software. Quero aprender novos idioma.</p>
+  <p> ✏️ Metas: Aprimorar meus meus conhecimentos na área de Software. Quero aprender novos idiomas.</p>
   <p> 🤔 Soft Skills:</p>
   <ul style="list-style-type: circle">
       <li>Trabalhar em equipe</li>
