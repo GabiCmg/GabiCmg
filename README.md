@@ -1,10 +1,11 @@
 <div align=center>
   
-Oiii, eu sou a Gabriela Camargo, estudante de programação! 👋
-
+  <h2> Oiii, eu sou a Gabriela Camargo, estudante de programação! 👋 </h2>
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!&font=Fira%20Code&center=true&width=380&height=50%22%3E">
+  </p>
+            
 </div>
-
-##
 
 <!--
 **GabiCmg/GabiCmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
