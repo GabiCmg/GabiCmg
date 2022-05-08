@@ -3,14 +3,24 @@
 <div align=center>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3&font=Fira%20Code&center=true&width=380&height=40%22%3E">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3&font=Fira%20Code&center=true&width=380&height=50%22%3E">
   </p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Dev!;Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=#fff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3;Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=#fff">
   </p>
             
 </div>
+
+<!--SOBRE MIM-->
+
+<div>
+  <h2>SOBRE MIM</h2>
+  <p> 🎓 Atualmente estou cursando Análise e Des. de Sistemas pela Uninove. </p>
+  <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
+  <p> 🖱 Buscando me aprimorar e ingressar na área como Desenvolvedor Front-End. </p>
+</div>
+
 
 <!--
 **GabiCmg/GabiCmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
