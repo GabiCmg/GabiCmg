@@ -101,7 +101,7 @@ Here are some ideas to get you started:
   
 <!-- CONTATOS -->
   
-<div> 
+<div align="center"> 
   <h3>CONTATOS:</h3>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <!-- https://shields.io/ -->
