@@ -13,30 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
-<hr>
+##
+##
 
 <!--APRESENTAÇÃO-->
 
 <div align=center>
   
+  <br>
+  
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=FC6D95">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3&font=Fira%10Code&center=true&width=800&height=30%22%3E&color=FC6D95">
   </p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=FC6D95">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%10Code&center=true&width=800&height=30%22%3E&color=FC6D95">
   </p>
             
 </div>
 
-<hr>
-<hr>
+##
+##
+
 
 <!--SOBRE MIM-->
 
 <div>
-  <h2>SOBRE MIM</h2>
+  <h3>SOBRE MIM</h3>
   <p> 🌱 Sou técnica de Informática, formada na ETEC de Taboão da Serra.</p>
   <p> 💻 Aluna do Instituto PROA, Cursando desenvolvimento Web Java. </p>
   <p> 💜 Metas: Aprimorar meus meus conhecimentos na área de Software. Quero aprender novos idioma.</p>
@@ -55,6 +58,10 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+<!-- Linha -->
+  
+  ##
+
 <br>
 
 <!-- INFORMAÇÕES GITHUB -->
@@ -67,6 +74,10 @@ Here are some ideas to get you started:
 </div>
 
  <br> 
+  
+<!-- Linha -->
+  
+  ##
   
 <!-- LINGUAGENS QUE CONHEÇO -->
   
@@ -86,9 +97,10 @@ Here are some ideas to get you started:
   
   ##
   
-<!-- Redes -->
+<!-- CONTATOS -->
   
 <div> 
+  <h3>CONTATOS:</h3>
   <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
   <!-- https://shields.io/ -->
   <a href="https://www.instagram.com/gabicamaroli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
