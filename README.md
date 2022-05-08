@@ -1,27 +1,3 @@
-<!--APRESENTAÇÃO-->
-
-<div align=center>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3&font=Fira%20Code&center=true&width=800&height=50%22%3E">
-  </p>
-  
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=#fff">
-  </p>
-            
-</div>
-
-<!--SOBRE MIM-->
-
-<div>
-  <h2>SOBRE MIM</h2>
-  <p> 🎓 Atualmente estou cursando Análise e Des. de Sistemas pela Uninove. </p>
-  <p> 💻 Aluno do Instituto PROA, Cursando desenvolvimento Web Java. </p>
-  <p> 🖱 Buscando me aprimorar e ingressar na área como Desenvolvedor Front-End. </p>
-</div>
-
-
 <!--
 **GabiCmg/GabiCmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,6 +12,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--APRESENTAÇÃO-->
+
+<div align=center>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+World!+<3&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=FC6D95">
+  </p>
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=FC6D95">
+  </p>
+            
+</div>
+
+<!--SOBRE MIM-->
+
+<div>
+  <h2>SOBRE MIM</h2>
+  <p> 🌱 Sou técnica de Informática, formada na ETEC de Taboão da Serra.</p>
+  <p> 💻 Aluna do Instituto PROA, Cursando desenvolvimento Web Java. </p>
+  <p> 💜 Metas: Aprimorar meus meus conhecimentos na área de Software. Quero aprender novos idioma.</p>
+  <p> 🤔 Soft Skills:</p>
+  <ul style="list-style-type: circle">
+      <li>Trabalhar em equipe</li>
+      <li>Comunicão</li>
+      <li>Flexibilidade</li>
+  </ul>
+  <p> 😄 Hobbies: </p>
+    <ul style="list-style-type: circle">
+      <li>Arte (Desenhar, Escrever, Atuar, Pintar, etc.)</li>
+      <li>Leitura</li>
+      <li>Artes Marciais</li>
+      <li>Ouvir Música</li>
+  </ul>
+</div>
+
+##
 
 <!-- Mudar Nick: GabiCmg - Mudar tema (theme): Dracula/Dark/etc -->
 <div align="center">
