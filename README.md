@@ -7,7 +7,7 @@
   </p>
   
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Devs!;Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=#fff">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Me+chamo+Gabriela+Camargo.+Seja+Bem+Vindo+ao+meu+perfil!&font=Fira%20Code&center=true&width=800&height=50%22%3E&color=#fff">
   </p>
             
 </div>
