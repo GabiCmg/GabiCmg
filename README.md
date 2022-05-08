@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 
 <!-- INFORMAÇÕES GITHUB -->
 
+<br>
+
 <!-- Mudar Nick: GabiCmg - Mudar tema (theme): Dracula/Dark/etc -->
 <div align="center">
   <a href="https://github.com/GabiCmg">
@@ -73,9 +75,9 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabiCmg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
- <br> 
+<br> 
   
-<!-- Linha -->
+<!-- LINHA -->
   
   ##
   
@@ -93,7 +95,7 @@ Here are some ideas to get you started:
   <img align="right" alt="GabCmg-Pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/0b/9a/4d/0b9a4d4abd9c024f363c646a267f80d4.gif">
 </div>
  
-<!-- Linha -->
+<!-- LINHA -->
   
   ##
   
