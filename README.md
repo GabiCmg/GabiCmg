@@ -1,18 +1,3 @@
-<!--
-**GabiCmg/GabiCmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ##
 ##
 
@@ -41,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <h3>SOBRE MIM</h3>
   <p> 🌱 Sou técnica de Informática, formada na ETEC de Taboão da Serra.</p>
-  <p> 💻 Aluna do Instituto PROA, Cursando desenvolvimento Web Java. </p>
+  <p> 💻 Cursei desenvolvimento eb Java, no Instituto PROA. </p>
   <p> ✏️ Metas: Aprimorar meus meus conhecimentos na área de Software. Quero aprender novos idiomas.</p>
   <p> 🤔 Soft Skills:</p>
   <ul style="list-style-type: circle">
