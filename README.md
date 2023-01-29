@@ -26,7 +26,7 @@
 <div>
   <h3>SOBRE MIM</h3>
   <p> 🌱 Sou técnica de Informática, formada na ETEC de Taboão da Serra.</p>
-  <p> 💻 Cursei desenvolvimento eb Java, no Instituto PROA. </p>
+  <p> 💻 Cursei desenvolvimento Web Java, no Instituto PROA. </p>
   <p> ✏️ Metas: Aprimorar meus meus conhecimentos na área de Software. Quero aprender novos idiomas.</p>
   <p> 🤔 Soft Skills:</p>
   <ul style="list-style-type: circle">
